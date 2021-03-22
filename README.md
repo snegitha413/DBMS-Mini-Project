@@ -1,6 +1,5 @@
 **This project is about application integration in DBMS**
- <ul>T
-This contains four sections:
+ <ul>This contains four sections:
   <li> Run your SQL query from the browser (use DB-book online SQL website)</li>
   <li> Access your MYSQL DB from a simple python program</li>
   <li> Demonstrate how your local programs run over ODBC to access DB</li>
