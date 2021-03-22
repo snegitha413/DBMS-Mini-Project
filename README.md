@@ -4,4 +4,4 @@ This project is about application integration in DBMS. This contains four sectio
  3) Demonstrate how your local programs run over ODBC to access DB
  4) Access MySQL DB using a simple PHP script
 
-In this project  Wamp server is used for database. Refer ppt for connections.
+In this project  Wamp server is used for database , jupyter notebook for python . Refer ppt for connections.
