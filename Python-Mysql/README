@@ -1,4 +1,4 @@
-**Connecting Python to Mysql**
+Connecting Python to Mysql
 
 -->Install mysql-connector-python using pip/conda.
 --> Now Create a database in your wamp server.
